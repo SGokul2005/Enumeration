@@ -96,9 +96,7 @@ Perform reverse lookups on netranges (C class or/and whois netranges) (threaded)
 Write to domain_ips.txt file ip-blocks.
 This program is useful for pentesters, ethical hackers and forensics experts. It also can be used for security tests.
 ## OUTPUT:
-![Screenshot 2024-09-24 220552](https://github.com/user-attachments/assets/acede183-5e92-43aa-8106-8eb2e325ea25)
-![Screenshot 2024-09-24 220650](https://github.com/user-attachments/assets/b6f0b741-eea9-4b57-98f3-c860ea5f0a24)
-![Screenshot 2024-09-24 220723](https://github.com/user-attachments/assets/45147455-b499-491e-b1a6-c997441a3af5)
+![Screenshot (19)](https://github.com/user-attachments/assets/7ab0c4ea-ec59-4135-b770-e732fd164434)
 
 ## smtp-user-enum
 Username guessing tool primarily for use against the default Solaris SMTP service. Can use either EXPN, VRFY or RCPT TO.
@@ -108,7 +106,8 @@ In metasploit list all the usernames using head /etc/passwd or cat /etc/passwd:
 
 select any username in the first column of the above file and check the same
 ## OUTPUT:
-![Screenshot 2024-09-24 221508](https://github.com/user-attachments/assets/45316a52-0042-4475-98a5-137249bf2b22)
+![Screenshot (22)](https://github.com/user-attachments/assets/727441c3-de58-4746-be07-1d0c0b01129f)
+
 
 # Telnet for smtp enumeration
 Telnet allows to connect to remote host based on the port no. For smtp port no is 25
@@ -124,7 +123,8 @@ The smtp-enum-users.nse script attempts to enumerate the users on a SMTP server 
 
 
 ## OUTPUT:
-![Screenshot (210)](https://github.com/user-attachments/assets/b7ba7244-e8e7-4fcf-ae3f-cfd94f9ad982)
+![Screenshot (23)](https://github.com/user-attachments/assets/2c0d8f39-537a-4766-988b-44c7aa646f66)
+
 
 ## RESULT:
 The Google hacking keywords and enumeration tools were identified and executed successfully
